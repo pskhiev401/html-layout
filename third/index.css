@@ -1,0 +1,46 @@
+.container1{
+    background: rgb(218, 214, 214);
+    height: 12vh;
+    width: 100vw;
+    display: flex;
+}
+
+.blueBox {
+    height: 80px;
+    width: 80px;
+    background: rgb(74, 86, 250);
+    margin: 13px 0 10px 20px;
+}
+
+.textbox {
+    font-family: arial;
+    font-size: 20px;
+    padding: 50px;
+}
+
+.blue {
+    background: rgb(74, 86, 250);
+    height: 15vh;
+    width: 100vw;
+
+}
+.teal {
+    background: rgb(74, 238, 250);
+    height: 15vh;
+    width: 100vw;
+
+}
+
+.lime {
+    background: rgb(161, 231, 95);
+    height: 15vh;
+    width: 100vw;
+
+}
+
+.yellow {
+    background: rgb(226, 243, 69);
+    height: 15vh;
+    width: 100vw;
+
+}

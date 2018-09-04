@@ -4,5 +4,17 @@ body {
 
 header{
     background: grey;
-    height: 200px;    
+    height: 150px;    
+}
+
+.container1 {
+    height: 600px;
+    margin: 0 150px 0 150px;
+    background-color: beige;
+}
+
+.container2 {
+    height: 100px;
+    background-color: black;
+    margin: 0 150px 0 150px;
 }
